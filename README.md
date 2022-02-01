@@ -7,6 +7,7 @@
 ### 4.Sequential order
 ### 5.A concise, descriptive title
 ## [Screenshot image]
-img
+ <img src="/Users/oliviakim96/Desktop/Rutgers/homework/Horiseon-refactor/Develop/assets/images/screencapture-horiseon .png" />
+
 ## [url link]
-link
+ <a href="https://confident-ptolemy-2dbb26.netlify.app/"> This is the url link. </a>
